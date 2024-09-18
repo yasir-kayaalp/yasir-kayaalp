@@ -2,8 +2,7 @@
 #### 🚀 Hakkımda
 Ben Yasir Kayaalp, yazılım geliştirme konusunda tutkulu bir mühendis ve teknoloji meraklısıyım. Anadolu Üniversitesi Bilgisayar Programcılığı öğrencisiyim ve çeşitli yazılım projelerinde deneyimim bulunuyor. Sürekli olarak yenilikleri takip ediyor ve kendimi bu alanda geliştirmeye çalışıyorum.
 
-#### 🎓 Eğitim
-İstanbul Üniversitesi - Bilgisayar Mühendisliği - 2022
+
 #### 💻 Teknolojiler
 ##### Programlama Dilleri: C#, Python,
 ##### Web Teknolojileri: HTML, CSS, ASP.NET
